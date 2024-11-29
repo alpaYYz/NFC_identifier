@@ -1,0 +1,114 @@
+[2024-09-30 09:17:38] TX		 Security ID: ff ff Address: 95 Seq: 0 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:17:44] No Ack	 Address 95 device is inactive
+[2024-09-30 09:17:58] TX		 Security ID: ff ff Address: 95 Seq: 1 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:04] No Ack	 Address 95 device is inactive
+[2024-09-30 09:18:05] TX		 Security ID: ff ff Address: 95 Seq: 2 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:11] No Ack	 Address 95 device is inactive
+[2024-09-30 09:18:14] TX		 Security ID: ff ff Address: 95 Seq: 3 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:20] No Ack	 Address 95 device is inactive
+[2024-09-30 09:18:25] TX		 Security ID: ff ff Address: 95 Seq: 4 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:31] No Ack	 Address 95 device is inactive
+[2024-09-30 09:18:37] TX		 Security ID: ff ff Address: 95 Seq: 5 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:43] No Ack	 Address 95 device is inactive
+[2024-09-30 09:18:48] TX		 Security ID: ff ff Address: 95 Seq: 6 Command: 30 Parameter: 01 Reserved: 00
+[2024-09-30 09:18:54] No Ack	 Address 95 device is inactive
+[2024-09-30 09:19:02] TX		 Security ID: ff ff Address: ff Seq: 7 Command: 10 Parameter: 08 Reserved: 02
+[2024-09-30 09:19:05] TX		 Security ID: ff ff Address: ff Seq: 8 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-30 09:19:10] TX		 Security ID: ff ff Address: ff Seq: 9 Command: 10 Parameter: 08 Reserved: 02
+[2024-09-30 09:19:13] TX		 Security ID: ff ff Address: ff Seq: 10 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-30 09:19:23] TX		 Security ID: ff ff Address: ff Seq: 11 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:25] TX		 Security ID: ff ff Address: ff Seq: 12 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:35] TX		 Security ID: ff ff Address: ff Seq: 13 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:37] TX		 Security ID: ff ff Address: ff Seq: 14 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:40] TX		 Security ID: ff ff Address: ff Seq: 15 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:41] TX		 Security ID: ff ff Address: ff Seq: 16 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:42] TX		 Security ID: ff ff Address: ff Seq: 17 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:42] TX		 Security ID: ff ff Address: ff Seq: 18 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:42] TX		 Security ID: ff ff Address: ff Seq: 19 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:19:42] TX		 Security ID: ff ff Address: ff Seq: 20 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:20:09] TX		 Security ID: ff ff Address: ff Seq: 21 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:20:18] TX		 Security ID: ff ff Address: ff Seq: 22 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:20:27] TX		 Security ID: ff ff Address: ff Seq: 23 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:20:28] TX		 Security ID: ff ff Address: ff Seq: 24 Command: 30 Parameter: 01 Reserved: 02
+[2024-09-30 09:33:11] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 09:33:11] TX Parameter Parameter (Hex): 00 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 09:33:11] TX Security ID: ff ff Address: f0 Seq: 0 Command: 31 Parameter: 00 Reserved: 00 400
+[2024-09-30 09:33:27] TX LED Brightness set in Reserved[0]: 40
+[2024-09-30 09:33:27] TX Parameter Parameter (Hex): 40 (Brightness: 1, Cycle: 0, Count: 0)
+[2024-09-30 09:33:27] TX Security ID: ff ff Address: f0 Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-30 09:33:34] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:33:34] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:33:34] TX Security ID: ff ff Address: f0 Seq: 2 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-30 09:33:38] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:33:38] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:33:38] TX Security ID: ff ff Address: f0 Seq: 3 Command: 32 Parameter: 80 Reserved: 80 00
+[2024-09-30 09:33:42] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:33:42] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:33:42] TX Security ID: ff ff Address: f0 Seq: 4 Command: 32 Parameter: 80 Reserved: 80 00
+[2024-09-30 09:33:49] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:33:49] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:33:49] TX Security ID: ff ff Address: f0 Seq: 5 Command: 34 Parameter: 80 Reserved: 80 00
+[2024-09-30 09:33:50] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:33:50] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:33:50] TX Security ID: ff ff Address: f0 Seq: 6 Command: 34 Parameter: 80 Reserved: 80 00
+[2024-09-30 09:37:58] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:37:58] TX Parameter Parameter (Hex): 01 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:37:58] TX Security ID: ff ff Address: f0 Seq: 0 Command: 34 Parameter: 01 Reserved: 0a 400
+[2024-09-30 09:38:04] No Ack Address f0 device is inactive
+[2024-09-30 09:38:15] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:38:15] TX Parameter Parameter (Hex): 01 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:38:15] TX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 0a b7bdcb18
+[2024-09-30 09:38:29] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 09:38:29] TX Parameter Parameter (Hex): 01 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 09:38:29] TX Security ID: ff ff Address: f0 Seq: 2 Command: 31 Parameter: 01 Reserved: 0a 8000000
+[2024-09-30 09:38:36] No Ack Address f0 device is inactive
+[2024-09-30 09:38:40] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 09:38:40] TX Parameter Parameter (Hex): 01 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 09:38:40] TX Security ID: ff ff Address: 95 Seq: 3 Command: 32 Parameter: 01 Reserved: 00 b7bdcb18
+[2024-09-30 09:38:41] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 09:38:41] TX Parameter Parameter (Hex): 01 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 09:38:41] TX Security ID: ff ff Address: 95 Seq: 4 Command: 32 Parameter: 01 Reserved: 00 b7bdcb18
+[2024-09-30 09:38:43] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 09:38:43] TX Parameter Parameter (Hex): 01 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 09:38:43] TX Security ID: ff ff Address: 95 Seq: 5 Command: 32 Parameter: 01 Reserved: 00 b7bdcb18
+[2024-09-30 09:38:43] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 09:38:43] TX Parameter Parameter (Hex): 01 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 09:38:43] TX Security ID: ff ff Address: 95 Seq: 6 Command: 32 Parameter: 01 Reserved: 00 b7bdcb18
+[2024-09-30 09:38:49] No Ack Address 95 device is inactive
+[2024-09-30 10:27:52] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 10:27:52] TX Parameter Parameter (Hex): 00 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 10:27:52] TX Security ID: ff ff Address: f0 Seq: 0 Command: 30 Parameter: 00 Reserved: 00 400
+[2024-09-30 10:27:58] No Ack Address f0 device is inactive
+[2024-09-30 10:27:58] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 10:27:58] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 10:27:58] TX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 80 Reserved: 80 93874b18
+[2024-09-30 10:28:00] TX LED Brightness set in Reserved[0]: 80
+[2024-09-30 10:28:00] TX Parameter Parameter (Hex): 80 (Brightness: 10, Cycle: 0, Count: 0)
+[2024-09-30 10:28:00] TX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 80 Reserved: 80 8000000
+[2024-09-30 10:28:02] TX LED Brightness set in Reserved[0]: 00
+[2024-09-30 10:28:02] TX Parameter Parameter (Hex): 00 (Brightness: 0, Cycle: 0, Count: 0)
+[2024-09-30 10:28:02] TX Security ID: ff ff Address: f0 Seq: 3 Command: 30 Parameter: 00 Reserved: 00 93874b18
+[2024-09-30 10:28:08] No Ack Address f0 device is inactive
+[2024-09-30 13:37:05] TX Security ID: ff ff Address: 05 Seq: 0 Command: 30 Parameter: 01 Reserved: 00 01
+[2024-09-30 13:37:10] TX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 01 Reserved: 00 9110c0c0
+[2024-09-30 13:37:13] TX Security ID: ff ff Address: 05 Seq: 2 Command: 30 Parameter: 01 Reserved: 01 90e76b18
+[2024-09-30 13:37:19] No Ack Address 05 device is inactive
+[2024-09-30 13:44:44] TX Security ID: ff ff Address: 05 Seq: 0 Command: 30 Parameter: 01 Reserved: 01 40000001
+[2024-09-30 13:44:50] No Ack Address 05 device is inactive
+[2024-09-30 13:44:52] TX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 01 Reserved: 01 a53b80c0
+[2024-09-30 13:44:54] TX Security ID: ff ff Address: 05 Seq: 2 Command: 30 Parameter: 01 Reserved: 01 a5122b18
+[2024-09-30 13:45:00] No Ack Address 05 device is inactive
+[2024-09-30 13:45:00] TX Security ID: ff ff Address: 05 Seq: 3 Command: 30 Parameter: 01 Reserved: 01 a5122b18
+[2024-09-30 13:45:06] No Ack Address 05 device is inactive
+[2024-09-30 13:45:11] TX Security ID: ff ff Address: 05 Seq: 4 Command: 10 Parameter: 00 Reserved: 01 a5122b18
+[2024-09-30 13:45:14] TX Security ID: ff ff Address: 05 Seq: 5 Command: 20 Parameter: 00 Reserved: 01 a5122b18
+[2024-09-30 13:45:21] No Ack Address 05 device is inactive
+[2024-09-30 13:45:26] TX Security ID: ff ff Address: 05 Seq: 6 Command: 10 Parameter: 40 Reserved: 01 a5122b18
+[2024-09-30 13:45:29] TX Security ID: ff ff Address: 05 Seq: 7 Command: 20 Parameter: 00 Reserved: 01 a5122b18
+[2024-09-30 13:45:35] No Ack Address 05 device is inactive
+[2024-09-30 13:45:52] TX Security ID: ff ff Address: 05 Seq: 8 Command: 10 Parameter: 80 Reserved: 01 a5122b18
+[2024-09-30 13:45:56] TX Security ID: ff ff Address: 05 Seq: 9 Command: 20 Parameter: 00 Reserved: 01 a5122b18
+[2024-09-30 13:46:02] No Ack Address 05 device is inactive
+[2024-09-30 14:57:24] TX Security ID: ff ff Address: 05 Seq: 0 Command: 30 Parameter: 01 Reserved: 00 00
+[2024-09-30 14:57:25] TX Security ID: ff ff Address: 8a Seq: 1 Command: 30 Parameter: 01 Reserved: 00 ac0020c0
+[2024-09-30 14:57:31] No Ack Address 8a device is inactive

@@ -1,0 +1,4 @@
+[2024-09-12 16:10:07] MTX Security ID: ff ff Address: 4b Seq: 1 Command: 37 Parameter: 01
+[2024-09-12 16:10:45] MTX Security ID: ff ff Address: 4b Seq: 2 Command: 37 Parameter: 01
+[2024-09-12 16:26:04] MTX Security ID: ff ff Address: 4b Seq: 3 Command: 30 Parameter: 01
+[2024-09-12 16:26:28] MTX Security ID: ff ff Address: 4b Seq: 4 Command: 30 Parameter: 01

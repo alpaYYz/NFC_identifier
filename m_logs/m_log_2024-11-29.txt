@@ -1,0 +1,2 @@
+[2024-11-29 10:00:35] MTX Security ID: 5a 5a Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-29 10:00:37] MTX Security ID: 5a 5a Address: ff Seq: 2 Command: 31 Parameter: 01 Reserved: 00

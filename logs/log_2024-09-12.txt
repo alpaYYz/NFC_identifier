@@ -1,0 +1,8 @@
+[2024-09-12 16:10:07] TX Security ID: ff ff Address: 4b Seq: 0 Command: 37 Parameter: 01
+[2024-09-12 16:10:14] No Ack Address 4b device is inactive
+[2024-09-12 16:10:45] TX Security ID: ff ff Address: 4b Seq: 1 Command: 37 Parameter: 01
+[2024-09-12 16:10:51] No Ack Address 4b device is inactive
+[2024-09-12 16:26:04] TX Security ID: ff ff Address: 4b Seq: 2 Command: 30 Parameter: 01
+[2024-09-12 16:26:10] No Ack Address 4b device is inactive
+[2024-09-12 16:26:28] TX Security ID: ff ff Address: 4b Seq: 3 Command: 30 Parameter: 01
+[2024-09-12 16:26:34] No Ack Address 4b device is inactive

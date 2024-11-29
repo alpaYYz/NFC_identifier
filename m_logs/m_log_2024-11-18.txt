@@ -1,0 +1,12 @@
+[2024-11-18 11:48:30] MTX Security ID: 5a 5a Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:06] MTX Security ID: 5a 5a Address: 11 Seq: 2 Command: 30 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:07] MTX Security ID: 5a 5a Address: 12 Seq: 3 Command: 30 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:07] MTX Security ID: 5a 5a Address: 30 Seq: 4 Command: 30 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:08] MTX Security ID: 5a 5a Address: 90 Seq: 5 Command: 30 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:09] MTX Security ID: 5a 5a Address: cd Seq: 6 Command: 30 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:35] MTX Security ID: 5a 5a Address: ff Seq: 7 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:43] MTX Security ID: 5a 5a Address: cd Seq: 8 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 11:49:57] MTX Security ID: 5a 5a Address: ff Seq: 9 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 11:50:07] MTX Security ID: 5a 5a Address: ff Seq: 10 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 11:52:29] MTX Security ID: 5a 5a Address: cd Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-11-18 12:04:33] MTX Security ID: 5a 5a Address: cd Seq: 1 Command: 30 Parameter: 01 Reserved: 00

@@ -1,0 +1,29 @@
+[2024-09-10 11:44:43] MTx Master Transmit Log
+[2024-09-10 11:44:47] MTx Master Transmit Log
+[2024-09-10 11:44:51] MTx Master Transmit Log
+[2024-09-10 11:44:56] MTx Master Transmit Log
+[2024-09-10 11:53:10] MTx Master Transmit Log
+[2024-09-10 11:53:12] MTx Master Transmit Log
+[2024-09-10 11:53:16] MTx Master Transmit Log
+[2024-09-10 11:53:18] MTx Master Transmit Log
+[2024-09-10 11:53:27] MTx Master Transmit Log
+[2024-09-10 11:53:32] MTx Master Transmit Log
+[2024-09-10 11:53:34] MTx Master Transmit Log
+[2024-09-10 11:53:37] MTx Master Transmit Log
+[2024-09-10 13:17:53] MTx Master Transmit Log
+[2024-09-10 15:37:24] MTx Master Transmit Log
+[2024-09-10 15:37:30] MTx Master Transmit Log
+[2024-09-10 15:37:32] MTx Master Transmit Log
+[2024-09-10 15:37:35] MTx Master Transmit Log
+[2024-09-10 15:37:36] MTx Master Transmit Log
+[2024-09-10 15:37:36] MTx Master Transmit Log
+[2024-09-10 15:43:32] MTx Master Transmit Log
+[2024-09-10 15:43:36] MTx Master Transmit Log
+[2024-09-10 15:43:36] MRx Security ID: ff ff Address: 7f Seq: 7 Command: 60 Parameter: 01
+[2024-09-10 15:43:38] MTx Master Transmit Log
+[2024-09-10 15:43:38] MRx Security ID: ff ff Address: 7f Seq: 8 Command: 60 Parameter: 01
+[2024-09-10 15:43:44] MTx Master Transmit Log
+[2024-09-10 15:43:44] MRx Security ID: ff ff Address: 7f Seq: 9 Command: 60 Parameter: 01
+[2024-09-10 15:45:12] MTx Master Transmit Log
+[2024-09-10 16:38:21] MTx Master Transmit Log
+[2024-09-10 16:38:23] MTx Master Transmit Log

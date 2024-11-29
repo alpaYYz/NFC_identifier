@@ -1,0 +1,10 @@
+[2024-10-30 14:47:36] TX Security ID: 5a 5a Address: 6f Seq: 0 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-30 14:47:41] TX Security ID: 5a 5a Address: 6f Seq: 1 Command: 32 Parameter: 01 Reserved: 00
+[2024-10-30 14:47:42] TX Security ID: 5a 5a Address: 6f Seq: 2 Command: 32 Parameter: 01 Reserved: 00
+[2024-10-30 14:47:48] No Ack Address 6f device is inactive
+[2024-10-30 14:47:53] TX Security ID: 5a 5a Address: 6f Seq: 3 Command: 34 Parameter: 01 Reserved: 00
+[2024-10-30 14:47:58] TX Security ID: 5a 5a Address: ff Seq: 4 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-30 14:47:59] No Ack Address ff device is inactive
+[2024-10-30 14:47:59] TX Security ID: 5a 5a Address: ff Seq: 5 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-30 14:48:07] TX Security ID: 5a 5a Address: ff Seq: 6 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-30 14:48:09] TX Security ID: 5a 5a Address: ff Seq: 7 Command: 31 Parameter: 01 Reserved: 00

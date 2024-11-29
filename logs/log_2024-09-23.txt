@@ -1,0 +1,23 @@
+[2024-09-23 10:12:52] TX Security ID: ff ff Address: 05 Seq: 0 Command: 30 Parameter: 00
+[2024-09-23 10:12:58] No Ack Address 05 device is inactive
+[2024-09-23 10:13:01] TX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-23 10:13:07] No Ack Address 05 device is inactive
+[2024-09-23 10:13:19] TX Security ID: ff ff Address: 05 Seq: 2 Command: 30 Parameter: 00
+[2024-09-23 10:13:25] No Ack Address 05 device is inactive
+[2024-09-23 10:13:25] TX Security ID: ff ff Address: 05 Seq: 3 Command: 30 Parameter: 00
+[2024-09-23 10:13:30] TX Security ID: ff ff Address: 05 Seq: 4 Command: 30 Parameter: 00
+[2024-09-23 10:13:36] TX Security ID: ff ff Address: 05 Seq: 5 Command: 30 Parameter: 00
+[2024-09-23 10:13:42] No Ack Address 05 device is inactive
+[2024-09-23 10:13:43] TX Security ID: ff ff Address: 05 Seq: 6 Command: 30 Parameter: 00
+[2024-09-23 10:13:44] TX Security ID: ff ff Address: 05 Seq: 7 Command: 30 Parameter: 00
+[2024-09-23 10:13:50] No Ack Address 05 device is inactive
+[2024-09-23 10:13:51] TX Security ID: ff ff Address: 05 Seq: 8 Command: 30 Parameter: 00
+[2024-09-23 10:13:52] TX Security ID: ff ff Address: 05 Seq: 9 Command: 30 Parameter: 00
+[2024-09-23 10:13:58] No Ack Address 05 device is inactive
+[2024-09-23 10:13:59] TX Security ID: ff ff Address: 05 Seq: 10 Command: 30 Parameter: 00
+[2024-09-23 10:14:04] TX Security ID: ff ff Address: 05 Seq: 11 Command: 30 Parameter: 00
+[2024-09-23 10:14:05] TX Security ID: ff ff Address: 05 Seq: 12 Command: 30 Parameter: 00
+[2024-09-23 10:14:11] No Ack Address 05 device is inactive
+[2024-09-23 11:51:27] TX Security ID: ff ff Address: 05 Seq: 0 Command: 30 Parameter: 00
+[2024-09-23 11:51:29] TX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-23 11:51:35] No Ack Address 05 device is inactive

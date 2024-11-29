@@ -1,0 +1,5 @@
+[2024-09-19 14:41:07] TX Security ID: ff ff Address: 8a Seq: 0 Command: 3a Parameter: 1d
+[2024-09-19 14:41:07] TX Security ID: ff ff Address: 8a Seq: 1 Command: 32 Parameter: 01
+[2024-09-19 14:41:08] TX Security ID: ff ff Address: 8a Seq: 2 Command: 32 Parameter: 01
+[2024-09-19 14:41:08] TX Security ID: ff ff Address: 8a Seq: 3 Command: 32 Parameter: 01
+[2024-09-19 14:41:14] No Ack Address 8a device is inactive

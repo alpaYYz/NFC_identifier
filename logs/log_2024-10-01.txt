@@ -1,0 +1,87 @@
+[2024-10-01 16:57:56] TX Security ID: ff ff Address: 55 Seq: 0 Command: 30 Parameter: 01 Reserved: 00 40000001
+[2024-10-01 16:58:02] No Ack Address 55 device is inactive
+[2024-10-01 16:58:09] TX Security ID: ff ff Address: 55 Seq: 1 Command: 30 Parameter: 01 Reserved: 00 98772b18
+[2024-10-01 16:58:15] No Ack Address 55 device is inactive
+[2024-10-01 17:04:57] TX Security ID: ff ff Address: 55 Seq: 0 Command: 30 Parameter: 01 Reserved: 00 40000001
+[2024-10-01 17:05:03] No Ack Address 55 device is inactive
+[2024-10-01 17:05:13] TX Security ID: ff ff Address: 00 Seq: 1 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:05:19] No Ack Address 00 device is inactive
+[2024-10-01 17:05:27] TX Security ID: ff ff Address: 55 Seq: 2 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:05:33] No Ack Address 55 device is inactive
+[2024-10-01 17:05:55] TX Security ID: ff ff Address: 55 Seq: 3 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:06:01] No Ack Address 55 device is inactive
+[2024-10-01 17:06:05] TX Security ID: ff ff Address: 55 Seq: 4 Command: 30 Parameter: 01 Reserved: 01 8ff46b18
+[2024-10-01 17:06:11] No Ack Address 55 device is inactive
+[2024-10-01 17:06:22] TX Security ID: ff ff Address: 00 Seq: 5 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:06:28] No Ack Address 00 device is inactive
+[2024-10-01 17:06:41] TX Security ID: ff ff Address: 55 Seq: 6 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:06:47] No Ack Address 55 device is inactive
+[2024-10-01 17:06:49] TX Security ID: ff ff Address: 55 Seq: 7 Command: 30 Parameter: 01 Reserved: 00 8ff46b18
+[2024-10-01 17:06:55] No Ack Address 55 device is inactive
+[2024-10-01 17:07:14] TX Security ID: ff ff Address: 55 Seq: 8 Command: 30 Parameter: 01 Reserved: 01 8ff46b18
+[2024-10-01 17:07:20] No Ack Address 55 device is inactive
+[2024-10-01 17:48:36] TX Security ID: 2a af Address: 00 Seq: 0 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 17:48:42] No Ack Address 00 device is inactive
+[2024-10-01 17:48:47] TX Security ID: 2a af Address: 00 Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 17:48:53] No Ack Address 00 device is inactive
+[2024-10-01 22:56:17] TX Security ID: ec dc Address: ff Seq: 0 Command: 37 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:35] TX Security ID: ec dc Address: 61 Seq: 1 Command: 37 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:38] TX Security ID: ec dc Address: 61 Seq: 2 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:41] TX Security ID: ec dc Address: 61 Seq: 3 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:45] TX Security ID: ec dc Address: ff Seq: 4 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:47] TX Security ID: ec dc Address: ff Seq: 5 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:56:47] No Ack Address ff device is inactive
+[2024-10-01 22:59:03] TX Security ID: a0 2a Address: ff Seq: 0 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:59:13] TX Security ID: a0 2a Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:59:18] TX Security ID: a0 2a Address: 61 Seq: 2 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 22:59:24] No Ack Address 61 device is inactive
+[2024-10-01 23:02:59] TX Security ID: 1b 5e Address: 61 Seq: 0 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:03:01] TX Security ID: 1b 5e Address: 95 Seq: 1 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:03:02] TX Security ID: 1b 5e Address: 55 Seq: 2 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:03:04] TX Security ID: 1b 5e Address: 00 Seq: 3 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:03:10] No Ack Address 00 device is inactive
+[2024-10-01 23:06:40] TX Security ID: 14 7e Address: ff Seq: 0 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:06:43] TX Security ID: 14 7e Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:06:52] TX Security ID: 14 7e Address: ff Seq: 2 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:06:57] TX Security ID: 14 7e Address: ff Seq: 3 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:06:59] TX Security ID: 14 7e Address: 61 Seq: 4 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:00] TX Security ID: 14 7e Address: 61 Seq: 5 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:06] No Ack Address 61 device is inactive
+[2024-10-01 23:07:12] TX Security ID: 14 7e Address: 61 Seq: 6 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:13] TX Security ID: 14 7e Address: ff Seq: 7 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:15] TX Security ID: 14 7e Address: ff Seq: 8 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:18] TX Security ID: 14 7e Address: ff Seq: 9 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:18] No Ack Address ff device is inactive
+[2024-10-01 23:07:25] TX Security ID: 14 7e Address: ff Seq: 10 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:31] TX Security ID: 14 7e Address: ff Seq: 11 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:07:32] TX Security ID: 14 7e Address: 61 Seq: 12 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:09:40] TX Security ID: fd 1f Address: ff Seq: 0 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:09:53] TX Security ID: fd 1f Address: ff Seq: 1 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:09:53] TX Security ID: fd 1f Address: ff Seq: 2 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:09:58] TX Security ID: fd 1f Address: ff Seq: 3 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:28:40] TX Security ID: 94 f7 Address: 61 Seq: 0 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:28:46] No Ack Address 61 device is inactive
+[2024-10-01 23:28:54] TX Security ID: 94 f7 Address: 61 Seq: 1 Command: 30 Parameter: 01 Reserved: 00
+[2024-10-01 23:28:56] TX Security ID: 94 f7 Address: ff Seq: 2 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:29:00] No Ack Address ff device is inactive
+[2024-10-01 23:29:49] TX Security ID: 94 f7 Address: ff Seq: 3 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:29:51] TX Security ID: 94 f7 Address: ff Seq: 4 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:30:06] TX Security ID: 94 f7 Address: ff Seq: 5 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:30:23] TX Security ID: 94 f7 Address: ff Seq: 6 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:30:54] TX Security ID: 94 f7 Address: ff Seq: 7 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:33:58] TX Security ID: ea 7a Address: ff Seq: 0 Command: 31 Parameter: 01 Reserved: 00
+[2024-10-01 23:34:03] TX Security ID: ea 7a Address: ff Seq: 1 Command: 33 Parameter: 01 Reserved: 00
+[2024-10-01 23:34:20] TX Security ID: ea 7a Address: ff Seq: 2 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:34:21] TX Security ID: ea 7a Address: ff Seq: 3 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:35:18] TX Security ID: ea 7a Address: ff Seq: 4 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:35:19] TX Security ID: ea 7a Address: ff Seq: 5 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:36:29] TX Security ID: ea 7a Address: ff Seq: 6 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:37:14] TX Security ID: 94 23 Address: ff Seq: 0 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:42:27] TX Security ID: 7c 92 Address: ff Seq: 0 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:47:25] TX Security ID: a6 9f Address: ff Seq: 0 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:51:13] TX Security ID: a6 9f Address: ff Seq: 1 Command: 32 Parameter: 01 Reserved: 02
+[2024-10-01 23:56:10] TX Security ID: a6 9f Address: ff Seq: 2 Command: 32 Parameter: 41 Reserved: 00
+[2024-10-01 23:56:13] TX Security ID: a6 9f Address: ff Seq: 3 Command: 32 Parameter: 41 Reserved: 00
+[2024-10-01 23:56:21] TX Security ID: a6 9f Address: ff Seq: 4 Command: 32 Parameter: 41 Reserved: 00
+[2024-10-01 23:56:24] TX Security ID: a6 9f Address: ff Seq: 5 Command: 32 Parameter: 41 Reserved: 00
+[2024-10-01 23:56:39] TX Security ID: a6 9f Address: ff Seq: 6 Command: 32 Parameter: 41 Reserved: 00

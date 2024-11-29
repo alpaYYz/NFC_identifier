@@ -1,0 +1,407 @@
+[2024-09-27 09:06:28] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 09:07:47] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 11 Parameter: 00
+[2024-09-27 09:07:50] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 21 Parameter: 00
+[2024-09-27 09:08:01] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 10 Parameter: 00
+[2024-09-27 09:08:04] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 20 Parameter: 00
+[2024-09-27 09:08:09] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 12 Parameter: 00
+[2024-09-27 09:08:10] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 22 Parameter: 00
+[2024-09-27 09:08:16] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 12 Parameter: 00
+[2024-09-27 09:08:17] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 22 Parameter: 00
+[2024-09-27 09:08:30] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 14 Parameter: 00
+[2024-09-27 09:08:34] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 24 Parameter: 00
+[2024-09-27 09:08:45] MTX Security ID: ff ff Address: 05 Seq: 12 Command: 1c Parameter: 00
+[2024-09-27 09:08:46] MTX Security ID: ff ff Address: 05 Seq: 13 Command: 2c Parameter: 00
+[2024-09-27 09:09:02] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 11 Parameter: 01
+[2024-09-27 09:09:06] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 21 Parameter: 00
+[2024-09-27 09:10:25] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 11 Parameter: 01
+[2024-09-27 09:10:33] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 21 Parameter: 00
+[2024-09-27 09:11:07] MTX Security ID: ff ff Address: 05 Seq: 18 Command: 11 Parameter: 01
+[2024-09-27 09:11:11] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 21 Parameter: 00
+[2024-09-27 09:11:42] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 11 Parameter: 01
+[2024-09-27 09:11:53] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 21 Parameter: 00
+[2024-09-27 09:46:18] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 09:48:09] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 30 Parameter: 00
+[2024-09-27 09:48:23] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 09:48:51] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 32 Parameter: 00
+[2024-09-27 09:49:19] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 34 Parameter: 00
+[2024-09-27 09:49:52] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 30 Parameter: 00
+[2024-09-27 09:50:19] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 38 Parameter: 00
+[2024-09-27 09:50:25] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 38 Parameter: 00
+[2024-09-27 09:50:48] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 39 Parameter: 00
+[2024-09-27 09:51:13] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 3a Parameter: 00
+[2024-09-27 09:51:34] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 3c Parameter: 00
+[2024-09-27 09:51:57] MTX Security ID: ff ff Address: 05 Seq: 12 Command: 38 Parameter: 00
+[2024-09-27 09:54:43] MTX Security ID: ff ff Address: 05 Seq: 13 Command: 10 Parameter: 00
+[2024-09-27 09:55:05] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 20 Parameter: 00
+[2024-09-27 09:56:05] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 10 Parameter: 00
+[2024-09-27 09:56:06] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 20 Parameter: 00
+[2024-09-27 09:56:29] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 11 Parameter: 00
+[2024-09-27 09:56:50] MTX Security ID: ff ff Address: 05 Seq: 18 Command: 21 Parameter: 00
+[2024-09-27 09:57:17] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 12 Parameter: 00
+[2024-09-27 09:57:20] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 22 Parameter: 00
+[2024-09-27 09:57:36] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 14 Parameter: 00
+[2024-09-27 09:57:40] MTX Security ID: ff ff Address: 05 Seq: 22 Command: 24 Parameter: 00
+[2024-09-27 10:10:02] MTX Security ID: ff ff Address: 05 Seq: 23 Command: 14 Parameter: 00
+[2024-09-27 10:10:05] MTX Security ID: ff ff Address: 05 Seq: 24 Command: 24 Parameter: 00
+[2024-09-27 10:10:10] MTX Security ID: ff ff Address: 05 Seq: 25 Command: 10 Parameter: 00
+[2024-09-27 10:10:29] MTX Security ID: ff ff Address: 05 Seq: 26 Command: 30 Parameter: 00
+[2024-09-27 10:10:38] MTX Security ID: ff ff Address: 05 Seq: 27 Command: 10 Parameter: 00
+[2024-09-27 10:10:40] MTX Security ID: ff ff Address: 05 Seq: 28 Command: 30 Parameter: 00
+[2024-09-27 10:10:43] MTX Security ID: ff ff Address: 05 Seq: 29 Command: 10 Parameter: 00
+[2024-09-27 10:10:44] MTX Security ID: ff ff Address: 05 Seq: 30 Command: 30 Parameter: 00
+[2024-09-27 10:10:51] MTX Security ID: ff ff Address: 05 Seq: 31 Command: 10 Parameter: 00
+[2024-09-27 10:10:53] MTX Security ID: ff ff Address: 05 Seq: 32 Command: 30 Parameter: 00
+[2024-09-27 10:10:55] MTX Security ID: ff ff Address: 05 Seq: 33 Command: 10 Parameter: 00
+[2024-09-27 10:10:56] MTX Security ID: ff ff Address: 05 Seq: 34 Command: 10 Parameter: 00
+[2024-09-27 10:10:57] MTX Security ID: ff ff Address: 05 Seq: 35 Command: 30 Parameter: 00
+[2024-09-27 10:11:06] MTX Security ID: ff ff Address: 05 Seq: 36 Command: 10 Parameter: 00
+[2024-09-27 10:11:08] MTX Security ID: ff ff Address: 05 Seq: 37 Command: 20 Parameter: 00
+[2024-09-27 10:11:14] MTX Security ID: ff ff Address: 05 Seq: 38 Command: 10 Parameter: 00
+[2024-09-27 10:11:16] MTX Security ID: ff ff Address: 05 Seq: 39 Command: 30 Parameter: 00
+[2024-09-27 10:11:18] MTX Security ID: ff ff Address: 05 Seq: 40 Command: 10 Parameter: 00
+[2024-09-27 10:11:24] MTX Security ID: ff ff Address: 05 Seq: 41 Command: 20 Parameter: 00
+[2024-09-27 10:11:36] MTX Security ID: ff ff Address: 05 Seq: 42 Command: 11 Parameter: 00
+[2024-09-27 10:11:39] MTX Security ID: ff ff Address: 05 Seq: 43 Command: 21 Parameter: 00
+[2024-09-27 10:11:58] MTX Security ID: ff ff Address: 05 Seq: 44 Command: 10 Parameter: 00
+[2024-09-27 10:12:05] MTX Security ID: ff ff Address: 05 Seq: 45 Command: 20 Parameter: 00
+[2024-09-27 10:12:19] MTX Security ID: ff ff Address: 05 Seq: 46 Command: 10 Parameter: 00
+[2024-09-27 10:12:27] MTX Security ID: ff ff Address: 05 Seq: 47 Command: 30 Parameter: 00
+[2024-09-27 10:14:11] MTX Security ID: ff ff Address: 8a Seq: 48 Command: 37 Parameter: 00
+[2024-09-27 10:15:11] MTX Security ID: ff ff Address: 8a Seq: 49 Command: 37 Parameter: 00
+[2024-09-27 10:15:21] MTX Security ID: ff ff Address: 8a Seq: 50 Command: 37 Parameter: 00
+[2024-09-27 10:15:28] MTX Security ID: ff ff Address: 8a Seq: 51 Command: 37 Parameter: 00
+[2024-09-27 10:16:21] MTX Security ID: ff ff Address: f0 Seq: 52 Command: 30 Parameter: 00
+[2024-09-27 10:16:55] MTX Security ID: ff ff Address: f0 Seq: 53 Command: 30 Parameter: 00
+[2024-09-27 10:17:09] MTX Security ID: ff ff Address: f0 Seq: 54 Command: 30 Parameter: 00
+[2024-09-27 10:19:33] MTX Security ID: ff ff Address: f0 Seq: 55 Command: 30 Parameter: 00
+[2024-09-27 10:23:34] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 10:23:50] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 00
+[2024-09-27 10:24:02] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 10:24:30] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 32 Parameter: 00
+[2024-09-27 10:24:42] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 32 Parameter: 00
+[2024-09-27 10:35:20] MTX Security ID: ff ff Address: 01 Seq: 3 Command: 30 Parameter: 00
+[2024-09-27 10:36:20] MTX Security ID: ff ff Address: 01 Seq: 4 Command: 30 Parameter: 00
+[2024-09-27 10:37:23] MTX Security ID: ff ff Address: 01 Seq: 5 Command: 30 Parameter: 00
+[2024-09-27 10:39:14] MTX Security ID: ff ff Address: 01 Seq: 6 Command: 30 Parameter: 00
+[2024-09-27 10:40:14] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 32 Parameter: 00
+[2024-09-27 10:40:15] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 32 Parameter: 00
+[2024-09-27 10:40:19] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 33 Parameter: 00
+[2024-09-27 10:40:37] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 31 Parameter: 00
+[2024-09-27 10:40:40] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 00
+[2024-09-27 10:40:45] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 10:48:40] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 31 Parameter: 00
+[2024-09-27 10:48:45] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 00
+[2024-09-27 10:48:53] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 10:48:55] MTX Security ID: ff ff Address: 8a Seq: 4 Command: 37 Parameter: 00
+[2024-09-27 10:48:55] MTX Security ID: ff ff Address: f0 Seq: 5 Command: 30 Parameter: 00
+[2024-09-27 10:49:01] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 31 Parameter: 00
+[2024-09-27 10:49:04] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 31 Parameter: 00
+[2024-09-27 10:49:11] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 31 Parameter: 00
+[2024-09-27 10:49:17] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 31 Parameter: 00
+[2024-09-27 10:49:20] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 31 Parameter: 00
+[2024-09-27 10:52:40] MTX Security ID: ff ff Address: 03 Seq: 11 Command: 30 Parameter: 00
+[2024-09-27 10:52:44] MTX Security ID: ff ff Address: 02 Seq: 12 Command: 30 Parameter: 00
+[2024-09-27 10:53:49] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 31 Parameter: 00
+[2024-09-27 10:53:51] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 00
+[2024-09-27 10:53:52] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 10:54:03] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 31 Parameter: 00
+[2024-09-27 10:54:08] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 31 Parameter: 00
+[2024-09-27 10:54:18] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 31 Parameter: 00
+[2024-09-27 10:54:27] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 31 Parameter: 00
+[2024-09-27 10:54:54] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 31 Parameter: 00
+[2024-09-27 10:54:55] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 31 Parameter: 00
+[2024-09-27 10:54:56] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 31 Parameter: 00
+[2024-09-27 10:55:16] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 31 Parameter: 14
+[2024-09-27 10:55:45] MTX Security ID: ff ff Address: 05 Seq: 12 Command: 31 Parameter: 28
+[2024-09-27 10:55:48] MTX Security ID: ff ff Address: 05 Seq: 13 Command: 31 Parameter: 28
+[2024-09-27 10:56:43] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 31 Parameter: 28
+[2024-09-27 10:56:46] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 31 Parameter: 28
+[2024-09-27 10:56:51] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 31 Parameter: 28
+[2024-09-27 11:11:22] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 31 Parameter: 28
+[2024-09-27 11:11:24] MTX Security ID: ff ff Address: 05 Seq: 18 Command: 31 Parameter: 28
+[2024-09-27 11:11:27] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 31 Parameter: 28
+[2024-09-27 11:11:27] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 31 Parameter: 28
+[2024-09-27 11:11:31] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 31 Parameter: 28
+[2024-09-27 11:11:32] MTX Security ID: ff ff Address: 05 Seq: 22 Command: 31 Parameter: 28
+[2024-09-27 11:11:32] MTX Security ID: ff ff Address: 05 Seq: 23 Command: 31 Parameter: 28
+[2024-09-27 11:39:37] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 31 Parameter: 0d
+[2024-09-27 11:39:49] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 0d
+[2024-09-27 11:39:55] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 0d
+[2024-09-27 11:40:05] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 31 Parameter: 0d
+[2024-09-27 11:40:15] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 11 Parameter: 0d
+[2024-09-27 11:40:21] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 21 Parameter: 00
+[2024-09-27 11:40:35] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 11 Parameter: 8d
+[2024-09-27 11:40:46] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 21 Parameter: 00
+[2024-09-27 11:41:07] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 31 Parameter: 00
+[2024-09-27 11:45:43] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 31 Parameter: 00
+[2024-09-27 11:45:54] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 31 Parameter: 00
+[2024-09-27 11:45:56] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 31 Parameter: 00
+[2024-09-27 11:46:05] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 31 Parameter: 00
+[2024-09-27 11:46:10] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 31 Parameter: 00
+[2024-09-27 11:46:13] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 31 Parameter: 00
+[2024-09-27 11:46:14] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 31 Parameter: 00
+[2024-09-27 11:52:53] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 30 Parameter: 00
+[2024-09-27 11:53:06] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 32 Parameter: 00
+[2024-09-27 11:54:06] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 34 Parameter: 00
+[2024-09-27 11:54:07] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 34 Parameter: 00
+[2024-09-27 11:59:43] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 34 Parameter: 80
+[2024-09-27 11:59:45] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 34 Parameter: 80
+[2024-09-27 11:59:56] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 34 Parameter: 00
+[2024-09-27 12:00:00] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 34 Parameter: 40
+[2024-09-27 12:00:11] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 34 Parameter: 80
+[2024-09-27 12:00:19] MTX Security ID: ff ff Address: 05 Seq: 6 Command: 34 Parameter: 80
+[2024-09-27 12:00:33] MTX Security ID: ff ff Address: 05 Seq: 7 Command: 34 Parameter: 40
+[2024-09-27 12:05:34] MTX Security ID: ff ff Address: 05 Seq: 8 Command: 34 Parameter: 40
+[2024-09-27 12:06:06] MTX Security ID: ff ff Address: 05 Seq: 9 Command: 31 Parameter: 40
+[2024-09-27 12:06:23] MTX Security ID: ff ff Address: 05 Seq: 10 Command: 11 Parameter: 41
+[2024-09-27 12:06:31] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 11 Parameter: 41
+[2024-09-27 12:06:40] MTX Security ID: ff ff Address: 05 Seq: 12 Command: 12 Parameter: 41
+[2024-09-27 12:06:54] MTX Security ID: ff ff Address: 05 Seq: 13 Command: 12 Parameter: 52
+[2024-09-27 12:08:24] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 10 Parameter: 52
+[2024-09-27 12:08:36] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 10 Parameter: 52
+[2024-09-27 12:08:44] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 11 Parameter: 52
+[2024-09-27 12:08:50] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 12 Parameter: 52
+[2024-09-27 12:08:54] MTX Security ID: ff ff Address: 05 Seq: 18 Command: 14 Parameter: 52
+[2024-09-27 12:09:04] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 13 Parameter: 52
+[2024-09-27 12:09:22] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 18 Parameter: 52
+[2024-09-27 12:14:36] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 18 Parameter: 52
+[2024-09-27 12:14:46] MTX Security ID: ff ff Address: 05 Seq: 22 Command: 10 Parameter: 52
+[2024-09-27 12:14:50] MTX Security ID: ff ff Address: 05 Seq: 23 Command: 10 Parameter: 52
+[2024-09-27 12:23:21] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 10 Parameter: 52
+[2024-09-27 12:23:30] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 10 Parameter: 52
+[2024-09-27 13:47:14] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 11 Parameter: 52
+[2024-09-27 13:54:22] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 12 Parameter: 52
+[2024-09-27 13:56:10] MTX Security ID: ff ff Address: 05 Seq: 3 Command: 12 Parameter: 52
+[2024-09-27 13:57:01] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 12 Parameter: 52
+[2024-09-27 13:57:31] MTX Security ID: ff ff Address: 05 Seq: 5 Command: 12 Parameter: 52
+[2024-09-27 14:15:11] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 12 Parameter: 52
+[2024-09-27 14:15:19] MTX Security ID: ff ff Address: 05 Seq: 2 Command: 12 Parameter: 52
+[2024-09-27 14:17:08] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 12 Parameter: 52
+[2024-09-27 14:22:15] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 14:22:17] MTX Security ID: ff ff Address: 8a Seq: 2 Command: 30 Parameter: 00
+[2024-09-27 14:22:19] MTX Security ID: ff ff Address: f0 Seq: 3 Command: 30 Parameter: 00
+[2024-09-27 14:22:31] MTX Security ID: ff ff Address: ff Seq: 4 Command: 37 Parameter: 00
+[2024-09-27 14:22:43] MTX Security ID: ff ff Address: ff Seq: 5 Command: 37 Parameter: 00
+[2024-09-27 14:22:53] MTX Security ID: ff ff Address: 01 Seq: 6 Command: 37 Parameter: 00
+[2024-09-27 14:22:55] MTX Security ID: ff ff Address: 01 Seq: 7 Command: 37 Parameter: 00
+[2024-09-27 14:22:58] MTX Security ID: ff ff Address: 01 Seq: 8 Command: 37 Parameter: 00
+[2024-09-27 14:23:09] MTX Security ID: ff ff Address: 01 Seq: 9 Command: 30 Parameter: 00
+[2024-09-27 14:23:12] MTX Security ID: ff ff Address: 02 Seq: 10 Command: 30 Parameter: 80
+[2024-09-27 14:23:16] MTX Security ID: ff ff Address: 02 Seq: 11 Command: 37 Parameter: 80
+[2024-09-27 14:23:18] MTX Security ID: ff ff Address: 02 Seq: 12 Command: 37 Parameter: 80
+[2024-09-27 14:34:12] MTX Security ID: ff ff Address: 01 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 14:37:12] MTX Security ID: ff ff Address: ff Seq: 2 Command: 37 Parameter: 00
+[2024-09-27 14:37:31] MTX Security ID: ff ff Address: 03 Seq: 3 Command: 30 Parameter: 80
+[2024-09-27 14:37:32] MTX Security ID: ff ff Address: 03 Seq: 4 Command: 30 Parameter: 80
+[2024-09-27 14:37:33] MTX Security ID: ff ff Address: 03 Seq: 5 Command: 30 Parameter: 80
+[2024-09-27 14:37:43] MTX Security ID: ff ff Address: 01 Seq: 6 Command: 30 Parameter: 00
+[2024-09-27 14:37:43] MTX Security ID: ff ff Address: 01 Seq: 7 Command: 30 Parameter: 00
+[2024-09-27 14:38:23] MTX Security ID: ff ff Address: 03 Seq: 8 Command: 30 Parameter: 00
+[2024-09-27 14:44:01] MTX Security ID: ff ff Address: 02 Seq: 10 Command: 30 Parameter: 00
+[2024-09-27 14:44:01] MTX Security ID: ff ff Address: 02 Seq: 10 Command: 30 Parameter: 00
+[2024-09-27 14:44:17] MTX Security ID: ff ff Address: f0 Seq: 12 Command: 30 Parameter: 00
+[2024-09-27 14:44:17] MTX Security ID: ff ff Address: f0 Seq: 12 Command: 30 Parameter: 00
+[2024-09-27 14:53:14] MTX Security ID: ff ff Address: 8a Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 14:56:12] MTX Security ID: ff ff Address: 8a Seq: 2 Command: 30 Parameter: 00
+[2024-09-27 14:56:13] MTX Security ID: ff ff Address: 03 Seq: 3 Command: 30 Parameter: 80
+[2024-09-27 14:56:24] MTX Security ID: ff ff Address: 8a Seq: 4 Command: 30 Parameter: 00
+[2024-09-27 14:56:27] MTX Security ID: ff ff Address: 8a Seq: 5 Command: 30 Parameter: 00
+[2024-09-27 14:56:28] MTX Security ID: ff ff Address: 03 Seq: 6 Command: 30 Parameter: 80
+[2024-09-27 14:56:29] MTX Security ID: ff ff Address: 8a Seq: 7 Command: 30 Parameter: 00
+[2024-09-27 14:56:39] MTX Security ID: ff ff Address: 03 Seq: 8 Command: 30 Parameter: 80
+[2024-09-27 14:57:32] MTX Security ID: ff ff Address: 03 Seq: 9 Command: 30 Parameter: 80
+[2024-09-27 14:57:48] MTX Security ID: ff ff Address: 03 Seq: 10 Command: 30 Parameter: 80
+[2024-09-27 14:58:16] MTX Security ID: ff ff Address: 03 Seq: 11 Command: 30 Parameter: 00
+[2024-09-27 14:58:17] MTX Security ID: ff ff Address: 8a Seq: 12 Command: 30 Parameter: 00
+[2024-09-27 14:58:30] MTX Security ID: ff ff Address: ff Seq: 13 Command: 37 Parameter: 00
+[2024-09-27 15:05:51] MTX Security ID: ff ff Address: ff Seq: 14 Command: 31 Parameter: 08
+[2024-09-27 15:06:08] MTX Security ID: ff ff Address: 8a Seq: 15 Command: 30 Parameter: 00
+[2024-09-27 15:06:09] MTX Security ID: ff ff Address: 8a Seq: 16 Command: 30 Parameter: 00
+[2024-09-27 15:06:27] MTX Security ID: ff ff Address: ff Seq: 17 Command: 31 Parameter: 08
+[2024-09-27 15:06:51] MTX Security ID: ff ff Address: ff Seq: 18 Command: 11 Parameter: c8
+[2024-09-27 15:07:02] MTX Security ID: ff ff Address: ff Seq: 19 Command: 32 Parameter: 08
+[2024-09-27 15:15:27] MTX Security ID: ff ff Address: ff Seq: 20 Command: 31 Parameter: 08
+[2024-09-27 15:18:47] MTX Security ID: ff ff Address: ff Seq: 21 Command: 31 Parameter: 09
+[2024-09-27 15:19:02] MTX Security ID: ff ff Address: ff Seq: 22 Command: 31 Parameter: 08
+[2024-09-27 15:19:13] MTX Security ID: ff ff Address: ff Seq: 23 Command: 31 Parameter: 08
+[2024-09-27 15:21:30] MTX Security ID: ff ff Address: ff Seq: 24 Command: 11 Parameter: c8
+[2024-09-27 15:24:10] MTX Security ID: ff ff Address: ff Seq: 25 Command: 11 Parameter: c8
+[2024-09-27 15:29:14] MTX Security ID: ff ff Address: ff Seq: 26 Command: 11 Parameter: f8
+[2024-09-27 15:36:53] MTX Security ID: ff ff Address: ff Seq: 27 Command: 11 Parameter: f8
+[2024-09-27 15:37:06] MTX Security ID: ff ff Address: ff Seq: 28 Command: 11 Parameter: f9
+[2024-09-27 15:37:40] MTX Security ID: ff ff Address: ff Seq: 29 Command: 11 Parameter: f9
+[2024-09-27 15:37:56] MTX Security ID: ff ff Address: ff Seq: 30 Command: 11 Parameter: f9
+[2024-09-27 15:38:12] MTX Security ID: ff ff Address: ff Seq: 31 Command: 11 Parameter: f9
+[2024-09-27 15:38:34] MTX Security ID: ff ff Address: ff Seq: 32 Command: 11 Parameter: c0
+[2024-09-27 15:38:42] MTX Security ID: ff ff Address: ff Seq: 33 Command: 11 Parameter: c0
+[2024-09-27 16:09:12] MTX Security ID: ff ff Address: ff Seq: 34 Command: 11 Parameter: c0
+[2024-09-27 16:09:21] MTX Security ID: ff ff Address: 05 Seq: 35 Command: 30 Parameter: 00
+[2024-09-27 16:09:22] MTX Security ID: ff ff Address: 8a Seq: 36 Command: 30 Parameter: 00
+[2024-09-27 16:09:40] MTX Security ID: ff ff Address: ff Seq: 37 Command: 30 Parameter: 40
+[2024-09-27 16:10:20] MTX Security ID: ff ff Address: 05 Seq: 1 Command: 30 Parameter: 00
+[2024-09-27 16:10:30] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 40
+[2024-09-27 16:10:47] MTX Security ID: ff ff Address: ff Seq: 3 Command: 30 Parameter: 00
+[2024-09-27 16:10:57] MTX Security ID: ff ff Address: 05 Seq: 4 Command: 30 Parameter: 00
+[2024-09-27 16:11:00] MTX Security ID: ff ff Address: ff Seq: 5 Command: 30 Parameter: 00
+[2024-09-27 16:11:11] MTX Security ID: ff ff Address: ff Seq: 6 Command: 30 Parameter: 40
+[2024-09-27 16:33:52] MTX Security ID: ff ff Address: ff Seq: 1 Command: 30 Parameter: 40
+[2024-09-27 16:33:52] MTX Security ID: ff ff Address: ff Seq: 1 Command: 30 Parameter: 40
+[2024-09-27 16:33:56] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 40
+[2024-09-27 16:33:56] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 40
+[2024-09-27 16:38:48] MTX Security ID: ff ff Address: ff Seq: 1 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:38:48] MTX Security ID: ff ff Address: ff Seq: 1 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:38:59] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:38:59] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:39:13] MTX Security ID: ff ff Address: ff Seq: 2 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:39:13] MTX Security ID: ff ff Address: ff Seq: 3 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:39:21] MTX Security ID: ff ff Address: ff Seq: 4 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:39:21] MTX Security ID: ff ff Address: ff Seq: 4 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:39:27] MTX Security ID: ff ff Address: ff Seq: 5 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:39:27] MTX Security ID: ff ff Address: ff Seq: 5 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:39:32] MTX Security ID: ff ff Address: ff Seq: 5 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:39:32] MTX Security ID: ff ff Address: ff Seq: 6 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:39:49] MTX Security ID: ff ff Address: ff Seq: 6 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:39:49] MTX Security ID: ff ff Address: ff Seq: 7 Command: 30 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:40:06] MTX Security ID: ff ff Address: ff Seq: 7 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:40:06] MTX Security ID: ff ff Address: ff Seq: 8 Command: 30 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:40:12] MTX Security ID: ff ff Address: ff Seq: 8 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:40:12] MTX Security ID: ff ff Address: ff Seq: 9 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:40:19] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:40:19] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:40:38] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:40:38] MTX Security ID: ff ff Address: ff Seq: 11 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:40:45] MTX Security ID: ff ff Address: ff Seq: 12 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:40:45] MTX Security ID: ff ff Address: ff Seq: 12 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:44:32] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:44:32] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:44:39] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:44:39] MTX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:44:46] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:44:46] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 16:44:55] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:44:55] MTX Security ID: ff ff Address: ff Seq: 4 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:45:02] MTX Security ID: ff ff Address: ff Seq: 5 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:45:02] MTX Security ID: ff ff Address: ff Seq: 5 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:45:57] MTX Security ID: ff ff Address: ff Seq: 6 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:45:57] MTX Security ID: ff ff Address: ff Seq: 6 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:04] MTX Security ID: ff ff Address: ff Seq: 7 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:04] MTX Security ID: ff ff Address: ff Seq: 7 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:09] MTX Security ID: ff ff Address: ff Seq: 8 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:09] MTX Security ID: ff ff Address: ff Seq: 8 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:15] MTX Security ID: ff ff Address: ff Seq: 9 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:15] MTX Security ID: ff ff Address: ff Seq: 9 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:19] MTX Security ID: ff ff Address: ff Seq: 9 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:19] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:29] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:29] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:30] MTX Security ID: ff ff Address: 05 Seq: 11 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:30] MTX Security ID: ff ff Address: 05 Seq: 12 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:34] MTX Security ID: ff ff Address: ff Seq: 12 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:34] MTX Security ID: ff ff Address: ff Seq: 13 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:41] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:41] MTX Security ID: ff ff Address: 05 Seq: 14 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:47] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:47] MTX Security ID: ff ff Address: 05 Seq: 15 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:53] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:53] MTX Security ID: ff ff Address: 05 Seq: 16 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:56] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:56] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:56] MTX Security ID: ff ff Address: 05 Seq: 17 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:46:56] MTX Security ID: ff ff Address: 05 Seq: 18 Command: 30 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:05] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:05] MTX Security ID: ff ff Address: 05 Seq: 19 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:06] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:06] MTX Security ID: ff ff Address: 05 Seq: 20 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:13] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:13] MTX Security ID: ff ff Address: 05 Seq: 21 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:18] MTX Security ID: ff ff Address: 05 Seq: 22 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:47:18] MTX Security ID: ff ff Address: 05 Seq: 22 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:05] MTX Security ID: ff ff Address: ff Seq: 23 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:05] MTX Security ID: ff ff Address: ff Seq: 23 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:18] MTX Security ID: ff ff Address: ff Seq: 24 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:18] MTX Security ID: ff ff Address: ff Seq: 24 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:29] MTX Security ID: ff ff Address: ff Seq: 25 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:29] MTX Security ID: ff ff Address: ff Seq: 25 Command: 31 Parameter: 00 Reserved: 00 00
+[2024-09-27 16:51:45] MTX Security ID: ff ff Address: ff Seq: 26 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:51:45] MTX Security ID: ff ff Address: ff Seq: 26 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:57:03] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 16:57:03] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 17:06:03] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 17:06:03] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 40 Reserved: 40 00
+[2024-09-27 17:06:11] MTX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 40 Reserved: 40 a9478000
+[2024-09-27 17:06:11] MTX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 40 Reserved: 40 a9478000
+[2024-09-27 17:06:16] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 40 Reserved: 40 31203732
+[2024-09-27 17:06:16] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 40 Reserved: 40 31203732
+[2024-09-27 18:45:44] MTX Security ID: ff ff Address: ff Seq: 1 Command: 10 Parameter: 08 Reserved: 01
+[2024-09-27 18:45:50] MTX Security ID: ff ff Address: ff Seq: 2 Command: 20 Parameter: 00 Reserved: 01
+[2024-09-27 18:45:56] MTX Security ID: ff ff Address: ff Seq: 3 Command: 10 Parameter: 10 Reserved: 01
+[2024-09-27 18:45:58] MTX Security ID: ff ff Address: ff Seq: 4 Command: 20 Parameter: 00 Reserved: 01
+[2024-09-27 18:46:00] MTX Security ID: ff ff Address: ff Seq: 5 Command: 10 Parameter: 18 Reserved: 01
+[2024-09-27 18:46:01] MTX Security ID: ff ff Address: ff Seq: 6 Command: 20 Parameter: 00 Reserved: 01
+[2024-09-27 18:46:05] MTX Security ID: ff ff Address: ff Seq: 7 Command: 10 Parameter: 00 Reserved: 01
+[2024-09-27 18:46:05] MTX Security ID: ff ff Address: ff Seq: 8 Command: 20 Parameter: 00 Reserved: 01
+[2024-09-27 18:46:10] MTX Security ID: ff ff Address: ff Seq: 9 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:46:10] MTX Security ID: ff ff Address: ff Seq: 10 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:46:11] MTX Security ID: ff ff Address: ff Seq: 11 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:46:12] MTX Security ID: ff ff Address: ff Seq: 12 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:46:13] MTX Security ID: ff ff Address: ff Seq: 13 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:46:14] MTX Security ID: ff ff Address: ff Seq: 14 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:48:44] MTX Security ID: ff ff Address: ff Seq: 1 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:48:47] MTX Security ID: ff ff Address: ff Seq: 2 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:48:50] MTX Security ID: ff ff Address: ff Seq: 3 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:48:52] MTX Security ID: ff ff Address: ff Seq: 4 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:48:59] MTX Security ID: ff ff Address: ff Seq: 5 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:00] MTX Security ID: ff ff Address: ff Seq: 6 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:02] MTX Security ID: ff ff Address: ff Seq: 7 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:11] MTX Security ID: ff ff Address: ff Seq: 8 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:18] MTX Security ID: ff ff Address: ff Seq: 9 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:23] MTX Security ID: ff ff Address: ff Seq: 10 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:28] MTX Security ID: ff ff Address: ff Seq: 11 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:32] MTX Security ID: ff ff Address: ff Seq: 12 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:33] MTX Security ID: ff ff Address: ff Seq: 13 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:38] MTX Security ID: ff ff Address: ff Seq: 14 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:44] MTX Security ID: ff ff Address: ff Seq: 15 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:47] MTX Security ID: ff ff Address: ff Seq: 16 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:48] MTX Security ID: ff ff Address: ff Seq: 17 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:49:51] MTX Security ID: ff ff Address: ff Seq: 18 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:17] MTX Security ID: ff ff Address: ff Seq: 1 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:18] MTX Security ID: ff ff Address: ff Seq: 2 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:25] MTX Security ID: ff ff Address: ff Seq: 3 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:26] MTX Security ID: ff ff Address: ff Seq: 4 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:33] MTX Security ID: ff ff Address: ff Seq: 5 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:34] MTX Security ID: ff ff Address: ff Seq: 6 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:47] MTX Security ID: ff ff Address: ff Seq: 7 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:48] MTX Security ID: ff ff Address: ff Seq: 8 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:49] MTX Security ID: ff ff Address: ff Seq: 9 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:49] MTX Security ID: ff ff Address: ff Seq: 10 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:50] MTX Security ID: ff ff Address: ff Seq: 11 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:50] MTX Security ID: ff ff Address: ff Seq: 12 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:50] MTX Security ID: ff ff Address: ff Seq: 13 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:55] MTX Security ID: ff ff Address: ff Seq: 14 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:55] MTX Security ID: ff ff Address: ff Seq: 15 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:56] MTX Security ID: ff ff Address: ff Seq: 16 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:56] MTX Security ID: ff ff Address: ff Seq: 17 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:50:57] MTX Security ID: ff ff Address: ff Seq: 18 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:51:15] MTX Security ID: ff ff Address: ff Seq: 19 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 18:51:19] MTX Security ID: ff ff Address: ff Seq: 20 Command: 10 Parameter: 00 Reserved: 02
+[2024-09-27 18:51:22] MTX Security ID: ff ff Address: ff Seq: 21 Command: 20 Parameter: 00 Reserved: 02
+[2024-09-27 20:38:35] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:35] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:37] MTX Security ID: ff ff Address: ff Seq: 1 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:37] MTX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 80 Reserved: 80 83da4000
+[2024-09-27 20:38:39] MTX Security ID: ff ff Address: ff Seq: 2 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:39] MTX Security ID: ff ff Address: ff Seq: 3 Command: 31 Parameter: 80 Reserved: 80 83da4000
+[2024-09-27 20:38:46] MTX Security ID: ff ff Address: ff Seq: 4 Command: 31 Parameter: 80 Reserved: 80 83da4000
+[2024-09-27 20:38:46] MTX Security ID: ff ff Address: ff Seq: 4 Command: 31 Parameter: 80 Reserved: 80 83da4000
+[2024-09-27 20:38:51] MTX Security ID: ff ff Address: ff Seq: 5 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:51] MTX Security ID: ff ff Address: ff Seq: 5 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:53] MTX Security ID: ff ff Address: ff Seq: 6 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:53] MTX Security ID: ff ff Address: ff Seq: 6 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 6 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 7 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 7 Command: 31 Parameter: 80 Reserved: 80 00
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 8 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 9 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 9 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 80 Reserved: 80 32203732
+[2024-09-27 20:38:54] MTX Security ID: ff ff Address: ff Seq: 10 Command: 31 Parameter: 80 Reserved: 80 32203732
